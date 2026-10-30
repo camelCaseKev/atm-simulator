@@ -1,6 +1,6 @@
 Login Info for ATM Accounts:
 
-Usernames	Passwords
+Usernames	    Passwords
 
 MasterAccount	InsecureMasterPass
 DaveWilshire	MyPass1234!
